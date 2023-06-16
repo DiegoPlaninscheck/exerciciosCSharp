@@ -1,0 +1,13 @@
+C:\Users\diego_planinscheck\Documents\GitHub\diegoFirstApp\diegoFirstApp\bin\Debug\netcoreapp3.1\diegoFirstApp.exe
+C:\Users\diego_planinscheck\Documents\GitHub\diegoFirstApp\diegoFirstApp\bin\Debug\netcoreapp3.1\diegoFirstApp.deps.json
+C:\Users\diego_planinscheck\Documents\GitHub\diegoFirstApp\diegoFirstApp\bin\Debug\netcoreapp3.1\diegoFirstApp.runtimeconfig.json
+C:\Users\diego_planinscheck\Documents\GitHub\diegoFirstApp\diegoFirstApp\bin\Debug\netcoreapp3.1\diegoFirstApp.runtimeconfig.dev.json
+C:\Users\diego_planinscheck\Documents\GitHub\diegoFirstApp\diegoFirstApp\bin\Debug\netcoreapp3.1\diegoFirstApp.dll
+C:\Users\diego_planinscheck\Documents\GitHub\diegoFirstApp\diegoFirstApp\bin\Debug\netcoreapp3.1\diegoFirstApp.pdb
+C:\Users\diego_planinscheck\Documents\GitHub\diegoFirstApp\diegoFirstApp\obj\Debug\netcoreapp3.1\diegoFirstApp.csprojAssemblyReference.cache
+C:\Users\diego_planinscheck\Documents\GitHub\diegoFirstApp\diegoFirstApp\obj\Debug\netcoreapp3.1\diegoFirstApp.AssemblyInfoInputs.cache
+C:\Users\diego_planinscheck\Documents\GitHub\diegoFirstApp\diegoFirstApp\obj\Debug\netcoreapp3.1\diegoFirstApp.AssemblyInfo.cs
+C:\Users\diego_planinscheck\Documents\GitHub\diegoFirstApp\diegoFirstApp\obj\Debug\netcoreapp3.1\diegoFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\diego_planinscheck\Documents\GitHub\diegoFirstApp\diegoFirstApp\obj\Debug\netcoreapp3.1\diegoFirstApp.dll
+C:\Users\diego_planinscheck\Documents\GitHub\diegoFirstApp\diegoFirstApp\obj\Debug\netcoreapp3.1\diegoFirstApp.pdb
+C:\Users\diego_planinscheck\Documents\GitHub\diegoFirstApp\diegoFirstApp\obj\Debug\netcoreapp3.1\diegoFirstApp.genruntimeconfig.cache
