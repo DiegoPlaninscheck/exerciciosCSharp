@@ -512,7 +512,7 @@ namespace diegoFirstApp
 
             // decimal[] vetor = new decimal[11];
             // int qtdMaiorQueX = 0, qtdMenorQueX = 0, qtdIguaisX = 0;
-            
+
             // for(int i = 0; i < vetor.Length - 1; i++)
             // {
             //     Console.WriteLine("Digite um numero: ");
@@ -662,8 +662,40 @@ namespace diegoFirstApp
 
 
             // Atividade 52
+            // Fazer um programa ler um vetor de inteiros e positivos e imprimir quantas vezes aparece o número 1, 3 e 4, nesta
+            // ordem.O vetor terá no máximo 100 posições.Sair do programa quando for digitado - 1.
+            int qtdNumero1 = 0, qtdNumero3 = 0, qtdNumero4 = 0;
 
-            
+            Console.WriteLine("Qual o tamanho do vetor: ");
+            int tamanhoVetor = int.Parse(Console.ReadLine());
+
+            decimal[] vetor = new decimal[tamanhoVetor];
+
+            for (int i = 0; i < tamanhoVetor; i++)
+            {
+                Console.WriteLine("Digite um valor: ");
+                decimal valor = decimal.Parse(Console.ReadLine())
+            }
+
+            for (int i = 0; i < tamanhoVetor; i++)
+            {
+                if (vetor[i] == 1)
+                {
+                    qtdNumero1++;
+                }
+                else if (vetor[i] == 3)
+                {
+                    qtdNumero3++;
+                }
+                else if (vetor[i] == 4)
+                {
+                    qtdNumero4++;
+                }
+            }
+
+            Console.WriteLine("Numeros 1: " + qtdNumero1);
+            Console.WriteLine("Numeros 3: " + qtdNumero3);
+            Console.WriteLine("Numeros 4: " + qtdNumero4);
         }
     }
 }

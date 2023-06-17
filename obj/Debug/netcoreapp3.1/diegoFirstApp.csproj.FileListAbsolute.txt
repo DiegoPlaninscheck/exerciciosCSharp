@@ -24,3 +24,5 @@ C:\Users\diego_planinscheck\Documents\GitHub\exerciciosCSharp\obj\Debug\netcorea
 C:\Users\diego_planinscheck\Documents\GitHub\exerciciosCSharp\obj\Debug\netcoreapp3.1\diegoFirstApp.dll
 C:\Users\diego_planinscheck\Documents\GitHub\exerciciosCSharp\obj\Debug\netcoreapp3.1\diegoFirstApp.pdb
 C:\Users\diego_planinscheck\Documents\GitHub\exerciciosCSharp\obj\Debug\netcoreapp3.1\diegoFirstApp.genruntimeconfig.cache
+C:\Users\diego\Documents\Github\exerciciosCSharp\obj\Debug\netcoreapp3.1\diegoFirstApp.dll
+C:\Users\diego\Documents\Github\exerciciosCSharp\obj\Debug\netcoreapp3.1\diegoFirstApp.pdb
