@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diego_planinscheck\\Documents\\GitHub\\diegoFirstApp\\diegoFirstApp\\diegoFirstApp.csproj",
+      "projectUniqueName": "C:\\Users\\diego_planinscheck\\Documents\\GitHub\\exerciciosCSharp\\diegoFirstApp.csproj",
       "projectName": "diegoFirstApp",
-      "projectPath": "C:\\Users\\diego_planinscheck\\Documents\\GitHub\\diegoFirstApp\\diegoFirstApp\\diegoFirstApp.csproj",
+      "projectPath": "C:\\Users\\diego_planinscheck\\Documents\\GitHub\\exerciciosCSharp\\diegoFirstApp.csproj",
       "packagesPath": "C:\\Users\\diego_planinscheck\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diego_planinscheck\\Documents\\GitHub\\diegoFirstApp\\diegoFirstApp\\obj\\",
+      "outputPath": "C:\\Users\\diego_planinscheck\\Documents\\GitHub\\exerciciosCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\diego_planinscheck\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -479,8 +479,191 @@ namespace diegoFirstApp
 
             // Atividade 46
 
+            // Console.WriteLine("Qual o tamanho do vetor: ");
+            // int tamanhoVetor = int.Parse(Console.ReadLine());
 
+            // decimal[] vetor1 = new decimal[tamanhoVetor];
+            // decimal[] vetor2 = new decimal[tamanhoVetor];
+
+            // decimal soma = 0;
+
+            // for(int i = 0; i < tamanhoVetor; i++)
+            // {
+            //     Console.WriteLine("Valor: " + i + " do vetor 1");
+            //     decimal numero = decimal.Parse(Console.ReadLine());
+            //     vetor1[i] = numero;
+            // }
+
+            // for(int i = 0; i < tamanhoVetor; i++)
+            // {
+            //     Console.WriteLine("Valor: " + i + " do vetor 2");
+            //     decimal numero = decimal.Parse(Console.ReadLine());
+            //     vetor2[i] = numero;
+            // }
+
+            // for(int i = 0; i < tamanhoVetor; i++)
+            // {
+            //     soma = soma + (vetor1[i] * vetor2[i]);
+            // }
+
+            // Console.WriteLine("A soma é: " + soma);
+
+            // Atividade 47
+
+            // decimal[] vetor = new decimal[11];
+            // int qtdMaiorQueX = 0, qtdMenorQueX = 0, qtdIguaisX = 0;
+            
+            // for(int i = 0; i < vetor.Length - 1; i++)
+            // {
+            //     Console.WriteLine("Digite um numero: ");
+            //     decimal numero = decimal.Parse(Console.ReadLine());
+            //     vetor[i] = numero;
+            // }
+
+            // Console.WriteLine("Digite o valor do X: ");
+            // decimal x = decimal.Parse(Console.ReadLine());
+
+            // vetor[vetor.Length - 1] = x;
+
+            // for(int i = 0; i < vetor.Length; i++)
+            // {
+            //     if(vetor[i] > x)
+            //     {
+            //         qtdMaiorQueX++;
+            //     }else if(vetor[i] < x)
+            //     {
+            //         qtdMenorQueX++;
+            //     } else if(vetor[i] == x)
+            //     {
+            //         qtdIguaisX++;
+            //     }
+            // }
+
+            // Console.WriteLine("Maiores que X: " + qtdMaiorQueX);
+            // Console.WriteLine("Menores que X: " + qtdMenorQueX);
+            // Console.WriteLine("Iguais que X: " + qtdIguaisX);
+
+
+            // Atividade 48
+
+            // int[] idades = {18, 20, 25, 32, 25, 45, 56, 19, 34, 45};
+            // string[] nomes = {"Juliana", "Dandara", "Camilly", "Eduarda", "Ester", 
+            // "Bruna", "Ana", "Jessica", "Jussara", "Luiza"};
+
+            // string resultado = "";
+
+            // for(int i = 0; i < idades.Length; i++)
+            // {
+            //     if(idades[i] >= 18 && idades[i] <= 20)
+            //     {
+            //         resultado += nomes[i] + "\n";
+            //     }
+            // }
+
+            // Console.WriteLine(resultado);
+
+
+            // Atividade 49
+
+
+            // Console.WriteLine("Qual o tamanho do vetor: "); 
+            // int tamanhoVetor = int.Parse(Console.ReadLine());
+            // int qtdValoresIguais = 0;
+
+            // int[] v1 = new int[tamanhoVetor];
+            // int[] v2 = new int[tamanhoVetor];
+
+            // for(int i = 0; i < v1.Length; i++)
+            // {
+            //     Console.WriteLine("Valor: " + i + " do vetor 1"); 
+            //     int valor = int.Parse(Console.ReadLine());
+
+            //     v1[i] = valor;
+            // }
+
+            //  for(int i = 0; i < v2.Length; i++)
+            // {
+            //     Console.WriteLine("Valor: " + i + " do vetor 2"); 
+            //     int valor = int.Parse(Console.ReadLine());
+
+            //     v2[i] = valor;
+            // }
+
+            // for(int i = 0; i < v1.Length; i++)
+            // {
+            //     if(v1[i] == v2[i])
+            //     {
+            //         qtdValoresIguais++;
+            //     }
+            // }
+
+            // Console.WriteLine(qtdValoresIguais);
+
+
+            // Atividade 50
+
+            // Console.WriteLine("Tente adivinhar o numero entre 0 - 100");
+
+            // Random random = new Random();
+
+            // int valor = random.Next(0, 101);
+
+            // while(true)
+            // {
+            //     Console.WriteLine("Chute o numero...");
+            //     int resposta = int.Parse(Console.ReadLine());
+
+            //     if(resposta == valor)
+            //     {
+            //         Console.WriteLine("Acertou!");
+            //         return;
+            //     }
+            // }
+
+
+            // Atividade 51
+
+            // int codigo = 1, qtdAlunos = 0, qtdMaiorNota7 = 0, qtdAbaixoNota5 = 0;
+            // decimal soma = 0;
+
+            // while(true)
+            // {
+            //     Console.WriteLine("Nota: ");
+            //     decimal nota = int.Parse(Console.ReadLine());
+
+            //     if(nota > 7)
+            //     {
+            //         qtdMaiorNota7++;
+            //     } else if(nota < 5)
+            //     {
+            //         qtdAbaixoNota5++;
+            //     }
+
+            //     soma += nota;
+
+            //     Console.WriteLine("Continuar cadastrando: 1-Sim 0-Não");
+            //     codigo = int.Parse(Console.ReadLine());
+
+            //     qtdAlunos++;
+
+            //     if(codigo == 0){
+            //         break;
+            //     }
+            // }
+
+            // if(qtdAbaixoNota5 > 0)
+            // {
+            //     Console.WriteLine("Mensagem: Não há nenhum aluno com nota acima de 5: ");
+            // }
+
+            // decimal media = soma / qtdAlunos;
+
+            // Console.WriteLine("A media dos alunos é: " + media);
+
+
+            // Atividade 52
+
+            
         }
     }
-
 }
