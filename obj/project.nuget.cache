@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "OGdFW6elZmkZYNUxMjNJk1XDIMhg7FT3ckj16KAvPh3Z68GnTCWB1oPyH4anRCFNPvKMeeptSSDTlOYdQVamnA==",
+  "dgSpecHash": "qDAhmc99QLHmzkNxG6IfMTGdbs/WxNjbEjunMTmKnZNRYBNWdyP7lnHCTUW3zuJJvGZhfwPNMoQ9JM8Zi/oVtw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\diego_planinscheck\\Documents\\GitHub\\exerciciosCSharp\\diegoFirstApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\diego\\Documents\\Github\\exerciciosCSharp\\diegoFirstApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diego\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

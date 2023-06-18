@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\diego_planinscheck\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\diego_planinscheck\\.nuget\\packages"
+      "C:\\Users\\diego\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\diego\\.nuget\\packages"
     ]
   }
 }

@@ -662,40 +662,103 @@ namespace diegoFirstApp
 
 
             // Atividade 52
-            // Fazer um programa ler um vetor de inteiros e positivos e imprimir quantas vezes aparece o número 1, 3 e 4, nesta
-            // ordem.O vetor terá no máximo 100 posições.Sair do programa quando for digitado - 1.
-            int qtdNumero1 = 0, qtdNumero3 = 0, qtdNumero4 = 0;
 
-            Console.WriteLine("Qual o tamanho do vetor: ");
-            int tamanhoVetor = int.Parse(Console.ReadLine());
+            //int qtdNumero1 = 0, qtdNumero3 = 0, qtdNumero4 = 0;
 
-            decimal[] vetor = new decimal[tamanhoVetor];
+            //Console.WriteLine("Qual o tamanho do vetor: ");
+            //int tamanhoVetor = int.Parse(Console.ReadLine());
 
-            for (int i = 0; i < tamanhoVetor; i++)
-            {
-                Console.WriteLine("Digite um valor: ");
-                decimal valor = decimal.Parse(Console.ReadLine())
-            }
+            //decimal[] vetor = new decimal[tamanhoVetor];
 
-            for (int i = 0; i < tamanhoVetor; i++)
-            {
-                if (vetor[i] == 1)
-                {
-                    qtdNumero1++;
-                }
-                else if (vetor[i] == 3)
-                {
-                    qtdNumero3++;
-                }
-                else if (vetor[i] == 4)
-                {
-                    qtdNumero4++;
-                }
-            }
+            //for (int i = 0; i < tamanhoVetor; i++)
+            //{
+            //    Console.WriteLine("Digite um valor: ");
+            //    decimal valor = decimal.Parse(Console.ReadLine())
+            //}
 
-            Console.WriteLine("Numeros 1: " + qtdNumero1);
-            Console.WriteLine("Numeros 3: " + qtdNumero3);
-            Console.WriteLine("Numeros 4: " + qtdNumero4);
+            //for (int i = 0; i < tamanhoVetor; i++)
+            //{
+            //    if (vetor[i] == 1)
+            //    {
+            //        qtdNumero1++;
+            //    }
+            //    else if (vetor[i] == 3)
+            //    {
+            //        qtdNumero3++;
+            //    }
+            //    else if (vetor[i] == 4)
+            //    {
+            //        qtdNumero4++;
+            //    }
+            //}
+
+            //Console.WriteLine("Numeros 1: " + qtdNumero1);
+            //Console.WriteLine("Numeros 3: " + qtdNumero3);
+            //Console.WriteLine("Numeros 4: " + qtdNumero4);
+
+
+            // Atividade 53
+
+            //decimal[] voltas;
+            //decimal tempoMelhorVolta = 999999, somaTemposVolta = 0;
+            //int numeroMelhorVolta = 0, qtdVoltas = 0;
+
+            //Console.WriteLine("Quantas voltas o corredor fez: ");
+            //qtdVoltas = int.Parse(Console.ReadLine());
+
+            //voltas = new decimal[qtdVoltas];
+
+            //for (int i = 0; i < qtdVoltas; i++)
+            //{
+            //    Console.WriteLine("Tempo da volta: ");
+            //    decimal tempo = decimal.Parse(Console.ReadLine());
+            //    voltas[i] = tempo;
+
+            //    somaTemposVolta += tempo;
+
+            //    if (voltas[i] < tempoMelhorVolta)
+            //    {
+            //        tempoMelhorVolta = tempo;
+            //        numeroMelhorVolta = i;
+            //    }
+            //}
+
+            //decimal mediaTempoVoltas = 0;
+
+            //mediaTempoVoltas = somaTemposVolta / qtdVoltas;
+
+            //Console.WriteLine("O melhor tempo foi: " + tempoMelhorVolta);
+            //Console.WriteLine("A melhor volta foi: " + (numeroMelhorVolta + 1));
+            //Console.WriteLine("A media de tempo das voltas: " + Math.Round(mediaTempoVoltas, 2));
+
+
+            // Atividade 54 - rever essa merda
+
+            //int[] vetor5 = { 1, 2, 3, 4, 5 };
+            //int[] vetor8 = { 1, 2, 3, 4, 5, 6, 7, 8 };
+
+            //foreach (int i in vetor5)
+            //{
+            //    foreach (int j in vetor8)
+            //    {
+            //        Console.WriteLine(j);
+            //        if (i != j)
+            //        {
+            //            Array.Resize(ref vetor8, j);
+            //        }
+
+            //    }
+            //}
+
+            //foreach (int i in vetor8)
+            //{
+            //    Console.WriteLine(i);
+            //}
+
+
+            // Atividade 55
+
+            
         }
     }
 }
